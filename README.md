@@ -38,7 +38,4 @@ TechStore é uma loja online dinâmica construída com HTML, CSS e JavaScript pu
 3. Use a barra de busca para filtrar produtos pelo nome  
 4. Clique nos botões de categoria para filtrar produtos por categoria  
 
----
-
-## Estrutura do projeto
 
